@@ -1,0 +1,7 @@
+.uk-section-secondary {
+    background: black;
+  }
+
+  .uk-section-secondary:not(.uk-preserve-color) .uk-subnav > * > :first-child {
+    color: white;
+}
